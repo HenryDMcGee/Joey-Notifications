@@ -1,0 +1,8 @@
+https://7ca03eae39b0.ngrok.io
+
+{
+  "name": "My Attachment Action Webhook",
+  "targetUrl": "https://example.com/mywebhook",
+  "resource": "attachmentActions",
+  "event": "created"
+}
